@@ -1,0 +1,29 @@
+.background-img{
+    background-image: url('./back.png');
+    height: 150vh;
+    width: 100%;
+    background-size: 'cover';
+    background-repeat: 'no-repeat';
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.icon{
+    top:25px;
+    margin-left: 550px;
+    position: relative;
+    font-size: 40px;
+    cursor: pointer;
+}
+.search-item{ 
+   width: 50%;
+   height:60px;
+   margin-top: 20px;
+   border-radius: 10px;
+   position: absolute;
+   padding-left: 30px;
+   font-size: 20px;
+}
+
